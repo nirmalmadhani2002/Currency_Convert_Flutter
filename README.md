@@ -13,7 +13,7 @@ Simple currency_converter_app App made with Flutter in India.
 
 <br></br>
 
-# 🪪 [License]()
+# 🪪 [License](https://docs.google.com/document/d/1NdMIZLYcmgoDDLmQqjQH6L8OVTGiLR3ZHZRP7D0VdmA/edit?usp=sharing)
 copyright ©[Nirmal Madhani](https://github.com/nirmalmadhani2002).<br>
 
 <div  align="center">
